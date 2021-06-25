@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709118527148",
+    "project_id": "testbarangg-4d506",
+    "storage_bucket": "testbarangg-4d506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709118527148:android:31b4ebc2e0b706f8c44109",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709118527148-qvcv89qngk6nfea5imch4n3ksps47ihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM7i6CSP6t3jbfB73AE1TBHJTiyp6BNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709118527148-qvcv89qngk6nfea5imch4n3ksps47ihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
